@@ -7,12 +7,12 @@ import openai
 logging.basicConfig(level=logging.INFO)
 
 # ------------------- CONFIG -------------------
-BOT_TOKEN = "SENING_YANGI_TOKEN"          # Serverda qo‘yiladi
+BOT_TOKEN = "8229909104:AAFBB39RL5E3K9Qq7fwCy40wH4irBOkwuKc"          # Serverda qo‘yiladi
 ADMIN_ID = 7968827951                      # Buyurtmalar keladigan admin ID
 GROUP_URL = "https://t.me/+WyvBKxNmej5hMTg6"
 
 # OpenAI API key
-OPENAI_API_KEY = "SENING_OPENAI_KEY"
+OPENAI_API_KEY = "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"
 openai.api_key = OPENAI_API_KEY
 
 bot = Bot(token=BOT_TOKEN)

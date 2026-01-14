@@ -7,7 +7,7 @@ import openai
 logging.basicConfig(level=logging.INFO)
 
 # ------------------- CONFIG -------------------
-BOT_TOKEN = "8229909104:AAFBB39RL5E3K9Qq7fwCy40wH4irBOkwuKc"          # Serverda qo‘yiladi
+BOT_TOKEN = "8445270877:AAHISMqUGMuQoSy2K1Ydj_dwWUm-0tdjl_c"          # Serverda qo‘yiladi
 ADMIN_ID = 7968827951                      # Buyurtmalar keladigan admin ID
 GROUP_URL = "https://t.me/+WyvBKxNmej5hMTg6"
 
